@@ -1,0 +1,22 @@
+[ {
+  "id" : 1,
+  "rezyserId" : null,
+  "name" : "Christopher",
+  "surname" : "Nolan",
+  "salary" : 100000,
+  "dateOfBirth" : "1980-01-01 23:00:00.000+0000",
+  "filmy" : [ {
+    "id" : 1,
+    "filmId" : null,
+    "year" : 2008,
+    "runtime" : 152,
+    "name" : "Mroczny Rycerz"
+  }, {
+    "id" : 2,
+    "filmId" : null,
+    "year" : 2005,
+    "runtime" : 140,
+    "name" : "Batman: Początek"
+  } ],
+  "date" : 315615600000
+} ]

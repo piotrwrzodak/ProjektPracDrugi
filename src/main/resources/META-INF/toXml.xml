@@ -1,0 +1,16 @@
+<ArrayList>
+  <item>
+    <id>1</id>
+    <ceoId/>
+    <name>ceo1</name>
+    <surname>c1</surname>
+    <salary>10000</salary>
+  </item>
+  <item>
+    <id>2</id>
+    <ceoId/>
+    <name>ceo2</name>
+    <surname>c2</surname>
+    <salary>20000</salary>
+  </item>
+</ArrayList>

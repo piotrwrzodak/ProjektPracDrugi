@@ -1,0 +1,13 @@
+[ {
+  "id" : 1,
+  "filmId" : null,
+  "year" : 2008,
+  "runtime" : 152,
+  "name" : "Mroczny Rycerz"
+}, {
+  "id" : 2,
+  "filmId" : null,
+  "year" : 2005,
+  "runtime" : 140,
+  "name" : "Batman: Początek"
+} ]
